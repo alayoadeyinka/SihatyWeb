@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-compress-1.20-bin/commons-compress-1.20/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-compress-1.20-bin.zip"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/commons-text-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/derbyclient.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/dom4j-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/eclipselink-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/flash-selenium.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/htmlunit-2.35.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/htmlunit-core-js-2.35.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/htmlunit-cssparser-1.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/httpclient-4.5.8.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/httpmime-4.5.8.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jetty-client-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jetty-http-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jetty-io-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jetty-util-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jetty-xml-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/json-20080701.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/logging-selenium-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/mysql-connector-java-5.0.7-bin(2).jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/neko-htmlunit-2.35.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/pdfbox-app-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-2.42.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-2.43.1-srcs.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-2.43.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-client-driver-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-client-driver-test-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-client-driver-tests.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-java-client-driver.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-server-coreless.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-server-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/selenium-server.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/testng-xslt-maven-plugin-test-0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/testng.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/websocket-api-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/websocket-client-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/websocket-common-9.4.16.v20190411.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/xercesImpl-2.12.0.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/Users/user/eclipse-workspace/SihatyWeb/lib/xmlbeans-bin-3.1.0.zip"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
